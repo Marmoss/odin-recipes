@@ -12,3 +12,14 @@ body {
     text-align: center;
     color: brown;
 }
+
+.recipe-page {
+    color: chocolate;
+    font-weight: 700;
+}
+
+.recipe-page h1, .recipe-page h2, .recipe-page h3, .recipe-page h4 {
+    text-align: center;
+    color: brown;
+}
+
